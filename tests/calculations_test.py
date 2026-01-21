@@ -78,7 +78,6 @@ def test_get_nth_fibonacci_ten():
 
     assert result == 89
 
-<!-- comment out -->
 
 def test_get_nth_fibonacci_negative():
     """Test with n < 0 raises ValueError."""
