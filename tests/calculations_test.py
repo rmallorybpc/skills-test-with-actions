@@ -76,7 +76,7 @@ def test_get_nth_fibonacci_ten():
     # Act
     result = get_nth_fibonacci(n)
 
-    assert result == 89
+    assert result == 55
 
 
 def test_get_nth_fibonacci_negative():
